@@ -3,4 +3,5 @@
 This is the pinteresting sample application for 
 [*One Month Rails*](http://onemonthrails.com)
 
-by [Mattan Griffel]
+This is me trying to change the project prior to git 
+[*Awesome*](http://bigassmessage.com/5a620)
